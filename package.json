@@ -10,6 +10,10 @@
     "rating"
   ],
   "author": "Koka El Kiwi <admin@kokaelkiwi.eu>",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/KokaKiwi/node-skill.git"
+  },
   "main": "./index.js",
   "dependencies": {
     "sprintf": "0.1.x"
