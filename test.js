@@ -7,12 +7,12 @@ var skill = require('./index'),
 var kiwi = new elo.Rating(100.0);
 var john = new elo.Rating(2000.0);
 var jean = new elo.Rating(125.0);
-var barbie = new elo.Rating(125.0);
+var kapoue = new elo.Rating(125.0);
 var lol = new elo.Rating(125.0);
 var coin = new elo.Rating(360.0);
 
 var team_red = [kiwi, john, jean];
-var team_blue = [barbie, lol];
+var team_blue = [kapoue, lol];
 var team_purple = [coin];
 
 function showTeam(team, name)
