@@ -1,0 +1,17 @@
+{
+  "name": "node-skill",
+  "version": "0.1.0",
+  "description": "A javascript implementation of multiple ranking systems.",
+  "keywords": [
+    "skill",
+    "elo",
+    "trueskill",
+    "ranking",
+    "rating"
+  ],
+  "author": "Koka El Kiwi <admin@kokaelkiwi.eu>",
+  "main": "./index.js",
+  "dependencies": {
+    "sprintf": "0.1.x"
+  }
+}
