@@ -17,5 +17,6 @@
   "main": "./index.js",
   "dependencies": {
     "sprintf": "0.1.x"
-  }
+  },
+  "license": "GPL-3.0"
 }
